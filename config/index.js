@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'taro-template',
+  projectName: 'taro-starter',
   date: '2022-12-1',
   designWidth: 750,
   deviceRatio: {
@@ -60,7 +60,7 @@ const config = {
     },
   },
   rn: {
-    appName: 'taroTemplate',
+    appName: 'taroStarter',
     postcss: {
       cssModules: {
         enable: false, // 默认为 false，如需使用 css modules 功能，则设为 true

@@ -1,1 +1,1 @@
-# taro-template
+# taro-starter

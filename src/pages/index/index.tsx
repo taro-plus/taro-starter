@@ -2,7 +2,7 @@ import { Cell, CellGroup } from '@antmjs/vantui';
 import { View } from '@tarojs/components';
 import type { FC } from 'react';
 
-const Index: FC = () => {
+const PageIndex: FC = () => {
   return (
     <View>
       <CellGroup>
@@ -13,4 +13,4 @@ const Index: FC = () => {
   );
 };
 
-export default Index;
+export default PageIndex;

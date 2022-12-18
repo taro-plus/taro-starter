@@ -1,6 +1,6 @@
 {
   "miniprogramRoot": "dist/",
-  "projectname": "taro-template",
+  "projectname": "taro-starter",
   "description": "",
   "appid": "wx3479b368db04761d",
   "setting": {
@@ -16,7 +16,8 @@
       "outputPath": ""
     },
     "minifyWXSS": false,
-    "minifyWXML": false
+    "minifyWXML": false,
+    "ignoreUploadUnusedFiles": false
   },
   "compileType": "miniprogram",
   "libVersion": "2.28.0",
